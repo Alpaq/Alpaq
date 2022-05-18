@@ -26,6 +26,8 @@
   <img src="https://img.shields.io/badge/Sequelize-282C34?logo=sequelize&logoColor=E10098" alt="Sequelize logo" title="Sequelize" height="25" />
 
   <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
+  
+  <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap" alt="bootstrap logo" title="Bootstrap" height="25" />
 
 <!--   <img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" /> -->
   
@@ -37,5 +39,6 @@
   <span>Slovak (native)&nbsp;&nbsp;&nbsp;</span>
   <span>Czech &nbsp;&nbsp;&nbsp;</span>
   <span>English &nbsp;&nbsp;&nbsp;</span>
-  <span>Russian &nbsp;&nbsp;&nbsp;</span>
+  <span>Russian &nbsp;&nbsp;&nbsp;</span>\
+  <span>Spanish </span>
 </div>
